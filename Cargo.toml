@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "remote-services",
+    "controller-test",
+    "led-rgb",
+    "system-info",
+    "tbip-manager",
+]
