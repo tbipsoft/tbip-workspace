@@ -1,15 +1,15 @@
 [submodule "remote-services"]
 	path = remote-services
-	url = https://github.com/tbipsoft/remote-services.git
+	url = git@github.com:tbipsoft/remote-services.git
 [submodule "controller-test"]
 	path = controller-test
-	url = https://github.com/tbipsoft/controller-test.git
+	url = git@github.com:tbipsoft/controller-test.git
 [submodule "led-rgb"]
 	path = led-rgb
-	url = https://github.com/tbipsoft/led-rgb.git
+	url = git@github.com:tbipsoft/led-rgb.git
 [submodule "system-info"]
 	path = system-info
-	url = https://github.com/tbipsoft/system-info.git
+	url = git@github.com:tbipsoft/system-info.git
 [submodule "tbip-manager"]
 	path = tbip-manager
-	url = https://github.com/tbipsoft/tbip-manager.git
+	url = git@github.com:tbipsoft/tbip-manager.git
