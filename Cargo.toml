@@ -5,5 +5,4 @@ members = [
     "controller-test",
     "led-rgb",
     "system-info",
-    "tbip-manager",
 ]
