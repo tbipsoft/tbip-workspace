@@ -13,3 +13,6 @@
 [submodule "tbip-manager"]
 	path = tbip-manager
 	url = git@github.com:tbipsoft/tbip-manager.git
+[submodule "installer"]
+	path = installer
+	url = git@github.com:tbipsoft/installer.git
